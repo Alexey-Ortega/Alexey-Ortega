@@ -1,4 +1,3 @@
 - 👋 Hola, yo soy Alexei Cuevas 
-- 👀 Estoy interesado en aprender sobre desarrollo de apps 
+- 👀 Estoy interesado en aprender y en algun momento elejir la rama de mi interes.
 - 🌱Actualmente aprendiendo python
-
