@@ -1,10 +1,6 @@
 <p align="left">Hola mi nombre es Alexei soy mexicano me gusta la tecnologia me encantaria ser programador de python</p>
 
-###
 
-<img src="https://raw.githubusercontent.com/Alexey-Ortega/Alexey-Ortega/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
