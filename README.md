@@ -1,4 +1,5 @@
-<p align="left">Hola mi nombre es Alexei soy mexicano me gusta la tecnologia me encantaria ser programador de python</p>
+<p align="left">Bienvenidos, me llamo Alexei, soy de Guadalajara me gusta la tecnologia en el ambito de hardware y software
+Juego videojuegos me gustaria ser desarrollador de software.</p>
 
 
 
