@@ -1,5 +1,20 @@
-<p align="left">Bienvenidos, me llamo Alexei, soy de Guadalajara me gusta la tecnologia en el ambito de hardware y software
-Juego videojuegos me gustaria ser desarrollador de software.</p>
+<p align="left"# 👋 ¡Hola! Soy Alexei Cuevas (Alexey-Ortega)  
+
+🚀 **Desarrollador de Software | Apasionado por Python & Tecnología**  
+📍 Guadalajara, México  
+🔭 Actualmente: Estudiante de Ingeniería de Software  
+🌱 Aprendiendo: Desarrollo Backend con Python y DevOps  
+🎮 Hobbies: Videojuegos, hardware y contribuir a proyectos open-source  
+
+### 💻 **Tecnologías y Habilidades**  
+- 🐍 Python (Django/Flask)  
+- 🛠️ Git & GitHub  
+- 🔧 Hardware básico (ensamblaje y mantenimiento)  
+
+### 📫 **Conéctate conmigo**  
+- LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/tu-perfil)  
+- Email: tu-email@dominio.com  
+</p>
 
 
 
