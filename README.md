@@ -12,8 +12,8 @@
 - 🔧 Hardware básico (ensamblaje y mantenimiento)  
 
 ### 📫 **Conéctate conmigo**  
-- LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/tu-perfil)  
-- Email: tu-email@dominio.com  
+- LinkedIn: https://www.linkedin.com/in/alexei-cuevas-9a39552a7/
+- Email:alexeycuevas282@gmail.com  
 </p>
 
 
