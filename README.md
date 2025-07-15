@@ -4,9 +4,7 @@
   <h3 align="center">🚀 Desarrollador de Software | Estudiante de Ingeniería</h3>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Apasionado+por+Python+y+DevOps;Entusiasta+del+hardware+y+open-source;Construyendo+soluciones+con+código" alt="Títulos animados" />
-</div>
+
 
 ## 🌐 Sobre Mí
 
