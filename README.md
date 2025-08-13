@@ -1,15 +1,15 @@
 <p align="center">
   <img src="https://i.gifer.com/5TMy.gif" width="200" alt="Tech GIF">
   <h1 align="center">👋 ¡Hola! Soy Alexei Cuevas</h1>
-  <h3 align="center">🚀 Desarrollador de Software | Estudiante de Ingeniería</h3>
+  <h3 align="center">🚀 Desarrollador de Software Enfocado en FrontEnd | Estudiante de Ingeniería</h3>
 </p>
 
 
 
 ## 🌐 Sobre Mí
 
-- 🔭 Actualmente estudiando **Ingeniería de Software**
-- 🌱 Aprendiendo **Desarrollo Backend con Python y DevOps**
+- 🔭 Actualmente estudiando **Ingeniería en sistemas**
+- 🌱 Aprendiendo **Desarrollo con python enfocandome en el FrontEnd**
 - 🎮 Hobbies: **Videojuegos y hardware**
 - 📍 Ubicación: **Guadalajara, México**
 - 💡 Filosofía: *"Aprender haciendo y compartir el conocimiento"*
@@ -42,6 +42,7 @@
 
 - **Desarrollo Backend**: Python (Django/Flask)
 - **Control de Versiones**: Git/GitHub
+-**Lenguajes y Hoja de estilo**: Css Y Html puro  
 - **Sistemas Operativos**: Linux (Ubuntu)
 - **Hardware**: Ensamblaje y mantenimiento de equipos
 - **Metodologías Ágiles**: Scrum básico
