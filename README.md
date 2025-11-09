@@ -9,7 +9,7 @@
 ## 🌐 Sobre Mí
 
 - 🔭 Actualmente estudiando **Ingeniería en sistemas**
-- 🌱 Aprendiendo **Desarrollo con python enfocandome en el FrontEnd**
+- 🌱 Aprendiendo Ciber Seguridad
 - 🎮 Hobbies: **Videojuegos y hardware**
 - 📍 Ubicación: **Guadalajara, México**
 - 💡 Filosofía: *"Aprender haciendo y compartir el conocimiento"*
