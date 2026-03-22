@@ -18,7 +18,7 @@
 - 🎓 Studying **Systems Engineering** in Guadalajara, México
 - 🛡️ Focused on **Blue Team** — threat detection, digital forensics & SOC operations
 - 🏗️ Currently building and documenting a **cybersecurity homelab** on real hardware
-- 🌱 Learning: **Elastic SIEM, Wazuh, Digital Forensics with SIFT**
+- 🌱 Currently learning: **Elastic SIEM, Wazuh, and Digital Forensics with SIFT**
 - 💡 Philosophy: *"You can't defend what you don't understand — so I simulate the attacks first."*
 - 📍 Based in **Guadalajara, MX** · Open to remote opportunities
 
@@ -83,13 +83,13 @@
 
 ---
 
-## 🎯 Roadmap 2025
+## 🎯 Roadmap 2026
 
-- [x] Build and document a full cybersecurity homelab
-- [x] Deploy Elastic SIEM with real log ingestion
-- [x] Implement Linux hardening (UFW, Fail2ban, SSH keys)
+- [x] Built and documented a full cybersecurity homelab
+- [x] Deployed Elastic SIEM with real log ingestion
+- [x] Implemented Linux hardening (UFW, Fail2ban, SSH keys)
 - [ ] Deploy Wazuh agents across all VMs
-- [ ] Complete TryHackMe Blue Team path
+- [ ] Complete the TryHackMe Blue Team path
 - [ ] Obtain first security certification (CompTIA Security+)
 - [ ] Land first role in SOC / Blue Team
 
